@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Arquivos de Origem">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Arquivos de Cabeçalho">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Arquivos de Recurso">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="lighting.frag" />
+    <None Include="lighting.vs" />
+    <None Include="lamp.frag" />
+    <None Include="lamp.vs" />
+    <None Include="lightingDirecional.vs" />
+    <None Include="lightingDirecional.frag" />
+    <None Include="lightingpontual.vs" />
+    <None Include="lightingpontual.frag" />
+    <None Include="lamppontual.vs" />
+    <None Include="lamppontual.frag" />
+    <None Include="lightingspot.vs" />
+    <None Include="lightingspot.frag" />
+    <None Include="lightingspotsemtex.vs" />
+    <None Include="lightingspotsemtex.frag" />
+    <None Include="lightingpontualsemtex.vs" />
+    <None Include="lightingpontualsemtex.frag" />
+    <None Include="lightingDirecionalsemtex.vs" />
+    <None Include="lightingDirecionalsemtex.frag" />
+    <None Include="lightingsemtex.vs" />
+    <None Include="lightingsemtex.frag" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Shader.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="LoaderObj.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="arcoiris.png" />
+    <Image Include="mario.jpg" />
+    <Image Include="zebra.jpg" />
+    <Image Include="container2.png" />
+    <Image Include="container2_specular.png" />
+    <Image Include="facom_quadrado.jpg" />
+    <Image Include="facom4_4.jpg" />
+    <Image Include="ufms.jpg" />
+    <Image Include="facom.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Arquivos de Origem</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

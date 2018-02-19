@@ -1,0 +1,16 @@
+﻿  main.cpp
+c:\users\caíque\documents\opengl\projeto_cg_final\projeto_cg_final\main.cpp(246): warning C4244: 'inicializando': conversão de 'double' para 'GLfloat', possível perda de dados
+c:\users\caíque\documents\opengl\projeto_cg_final\projeto_cg_final\main.cpp(576): warning C4244: 'inicializando': conversão de 'double' para 'GLfloat', possível perda de dados
+c:\users\caíque\documents\opengl\projeto_cg_final\projeto_cg_final\main.cpp(850): warning C4244: 'inicializando': conversão de 'double' para 'GLfloat', possível perda de dados
+c:\users\caíque\documents\opengl\projeto_cg_final\projeto_cg_final\main.cpp(1133): warning C4244: 'inicializando': conversão de 'double' para 'GLfloat', possível perda de dados
+c:\users\caíque\documents\opengl\projeto_cg_final\projeto_cg_final\main.cpp(1393): warning C4244: 'inicializando': conversão de 'double' para 'GLfloat', possível perda de dados
+c:\users\caíque\documents\opengl\projeto_cg_final\projeto_cg_final\main.cpp(1682): warning C4244: 'inicializando': conversão de 'double' para 'GLfloat', possível perda de dados
+c:\users\caíque\documents\opengl\projeto_cg_final\projeto_cg_final\main.cpp(1917): warning C4244: 'inicializando': conversão de 'double' para 'GLfloat', possível perda de dados
+c:\users\caíque\documents\opengl\projeto_cg_final\projeto_cg_final\main.cpp(2163): warning C4244: 'inicializando': conversão de 'double' para 'GLfloat', possível perda de dados
+c:\users\caíque\documents\opengl\projeto_cg_final\projeto_cg_final\main.cpp(2360): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+c:\users\caíque\documents\opengl\projeto_cg_final\projeto_cg_final\main.cpp(2361): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+c:\users\caíque\documents\opengl\projeto_cg_final\projeto_cg_final\main.cpp(2365): warning C4244: 'inicializando': conversão de 'double' para 'GLfloat', possível perda de dados
+c:\users\caíque\documents\opengl\projeto_cg_final\projeto_cg_final\main.cpp(2366): warning C4244: 'inicializando': conversão de 'double' para 'GLfloat', possível perda de dados
+c:\users\caíque\documents\opengl\projeto_cg_final\projeto_cg_final\main.cpp(2368): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+c:\users\caíque\documents\opengl\projeto_cg_final\projeto_cg_final\main.cpp(2369): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+  projeto_cg_final.vcxproj -> C:\Users\Caíque\Documents\OpenGL\projeto_cg_final\Debug\projeto_cg_final.exe
